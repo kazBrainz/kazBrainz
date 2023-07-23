@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @kazBrainz
+<h1>Hi</h1>
+- 👋 I’m @kazBrainz
 - 👀 I’m interested in full-stack software development, Cybersecurity, and AI machine learning roles
 - 🌱 I’m currently immersing myself into Cybersecurity
 - 💞️ I’m looking to collaborate on software development with a view on Security
