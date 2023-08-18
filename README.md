@@ -10,6 +10,10 @@
 - <b>Certificate Web Application </b>
   - [Web Application](https://github.com/kazBrainz/Online-Certificate-Web-App)
 
+<h2> Certifications </h2>
+ - [ISC2 Certified in CyberSecurity](https://www.credly.com/badges/1b71de19-0e5c-4d9e-8374-597d3887bd24/linked_in_profile)
+ - [Google Cybersecurity Professional Certificate]
+
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to Implement ChatGPT as a Chatbot in Python Using PyCharm IDE](https://www.youtube.com/watch?v=RSawDZYzWS8&t=289s)
