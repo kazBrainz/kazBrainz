@@ -1,4 +1,4 @@
-[![MasterHead](https://www.stockvault.net/data/2015/06/30/174251/preview16.jpg)](https://kazBrainz.io)
+[![MasterHead](https://www.stockvault.net/data/2015/06/30/174251/preview16.jpg)](https://github.com/kazBrainz)
 <h1>Hi, I'm Kazim! <br/><a href="https://github.com/kazBrainz">Cybersecurity Analyst</a>, <a href="https://www.linkedin.com/in/kazimolanirans/">Software  Engineer</a>, <a href="https://www.youtube.com/@techwithkazim9180/">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
