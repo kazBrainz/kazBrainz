@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-photo/anonymous-cute-hacker-concept-hacking-cybersecurity-cybercrime-cyberattack-etc_778980-1043.jpg)](https://github.com/kazBrainz)
+[![MasterHead](https://media.geeksforgeeks.org/wp-content/uploads/hacker.png)](https://github.com/kazBrainz)
 
 <h1 align="center">Hi 👋, I'm Kazim</h1>
 <h3 align="center"><a href="https://github.com/kazBrainz">Cybersecurity Analyst</a>, <a href="https://www.linkedin.com/in/kazimolanirans/">Software Engineer</a>, <a href="https://www.youtube.com/@techwithkazim9180/">YouTuber</a></h3>
