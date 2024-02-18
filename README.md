@@ -9,6 +9,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Security Analysis of GAN (Cybersecurity)</b>
+  - [Generative Adversarial Network Security](https://github.com/kazBrainz/Generative-Adversarial-Networks)
 - <b>Security Audit for Botium Toys (Cybersecurity)</b>
   - [Security Audit](https://github.com/kazBrainz/Security-Audit-for-Botium-Toys)
 - <b>My Incident Handler Journals (Cybersecurity)</b>
