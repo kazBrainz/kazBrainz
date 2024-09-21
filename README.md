@@ -26,6 +26,7 @@
 
 <h2>📝 Certifications</h2>
 
+- [CompTIA Security+]()
 - [ISC2 Certified in CyberSecurity](https://www.credly.com/badges/1b71de19-0e5c-4d9e-8374-597d3887bd24/linked_in_profile)
 - [Google Certified Cybersecurity Professional ](#)
 - [Microsoft Certified Cybersecurity Professional ](#)
