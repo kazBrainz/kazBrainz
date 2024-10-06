@@ -1,5 +1,3 @@
-[![MasterHead](https://th.bing.com/th/id/R.8d2d67a9dbe23b95587a62d55171e482?rik=SQJ35hQH3y5h%2bQ&pid=ImgRaw&r=0)](https://github.com/ProtnTed)
-
 [![MasterHead](https://media.geeksforgeeks.org/wp-content/uploads/hacker.png)](https://github.com/kazBrainz)
 
 <h1 align="center">Hi 👋, I'm Kazim</h1>
