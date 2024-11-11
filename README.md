@@ -33,6 +33,7 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
+- [How to Encrypt Files & Emails Using GnuPG](https://www.youtube.com/watch?v=BCjoodvKXy4&t=694s)
 - [How to Implement ChatGPT as a Chatbot in Python Using PyCharm IDE](https://www.youtube.com/watch?v=RSawDZYzWS8&t=289s)
 - [How to Install & Configure Snort IDS On Ubuntu](https://www.youtube.com/watch?v=nwDVE_kEFGg&t=377s)
 
