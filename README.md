@@ -1,6 +1,6 @@
 [![MasterHead](https://media.geeksforgeeks.org/wp-content/uploads/hacker.png)](https://github.com/kazBrainz)
 
-<h1 align="center">Hi 👋, I'm Kazim</h1>
+<h1 align="center">Hi 👋, I'm KazBrainz</h1>
 <h3 align="center"><a href="https://github.com/kazBrainz">Cybersecurity Analyst</a>, <a href="https://www.linkedin.com/in/kazimolanirans/">Software Engineer</a>, <a href="https://www.youtube.com/@techwithkazim9180/">YouTuber</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kazbrainz&label=Profile%20views&color=0e75b6&style=flat" alt="kazbrainz" /> </p>
